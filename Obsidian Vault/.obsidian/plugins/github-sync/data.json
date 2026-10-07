@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/LALA8456/notes.moi.git",
+  "gitLocation": "D:\\Git\\bin\\git.exe",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
