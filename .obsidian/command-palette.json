@@ -1,5 +1,6 @@
 {
   "pinned": [
-    "github-sync:github-sync-command"
+    "github-sync:github-sync-command",
+    "hybrid-git-sync:pull"
   ]
 }
