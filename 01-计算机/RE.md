@@ -4,3 +4,8 @@
 
 通过网盘分享的文件：AI+IDA+Trae-逆向等2个文件  
 链接: https://pan.baidu.com/s/1oNMmCw_52Mh2y_h8GM1OVQ 提取码: nqfz
+
+
+kali32：用户名root,密码sfx
+
+trae mcp ida
